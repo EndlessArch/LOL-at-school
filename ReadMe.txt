@@ -1,0 +1,1 @@
+https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.kr.exe
